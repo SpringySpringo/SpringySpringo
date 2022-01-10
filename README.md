@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @SpringySpringo
-- 👀 I’m interested in gamedev
+-Hi, I’m @SpringySpringo. I do things.
 
 <!---
 SpringySpringo/SpringySpringo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
